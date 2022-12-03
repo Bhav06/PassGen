@@ -27,11 +27,11 @@ A Python Script To Generate Random And Secure Passwords
 
 • ls
 
-• cd p-gen
+• cd PassGen
 
 • ls
 
-• python p-gen.py
+• python PassGen.py
 
 
 
